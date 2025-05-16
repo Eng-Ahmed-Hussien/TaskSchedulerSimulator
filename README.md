@@ -18,7 +18,7 @@ A GUI application for visualizing CPU scheduling algorithms, built with PyQt5 an
 
 ### Windows Users
 
-1. Download the latest release from [Releases page](https://github.com/yourusername/SchedulerSimulator/releases)
+1. Download the latest release from [Releases page](https://github.com/Eng-Ahmed-Hussien/TaskSchedulerSimulator)
 2. Run `SchedulerSimulator.exe`
 3. (Optional) Add to PATH for command-line access
 
@@ -30,7 +30,7 @@ A GUI application for visualizing CPU scheduling algorithms, built with PyQt5 an
 ### For Other Platforms
 
 ```bash
-git clone https://github.com/yourusername/SchedulerSimulator.git
+git clone https://github.com/Eng-Ahmed-Hussien/TaskSchedulerSimulator
 pip install -r requirements.txt
 python main.py
 ```
